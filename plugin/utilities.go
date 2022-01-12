@@ -53,7 +53,7 @@ func (p *OrmPlugin) qualifiedGoIdent(ident protogen.GoIdent) string {
 		GoName:       strings.TrimLeft(ident.GoName, "*[]"),
 		GoImportPath: ident.GoImportPath,
 	}
-	if ident.GoImportPath != "" {
+	if ident.GoImportPath != "" && p.currentFile != nil {
 		result = p.currentFile.QualifiedGoIdent(tmpIdent)
 	} else {
 		result = tmpIdent.GoName

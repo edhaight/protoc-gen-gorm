@@ -116,6 +116,7 @@ github.com/infobloxopen/atlas-app-toolkit v0.20.0 h1:XZvoTdsSv75scA7+32kDyIxDuE8
 github.com/infobloxopen/atlas-app-toolkit v0.20.0/go.mod h1:DeDerruKrelNyHNhpOsjMzOJb0Qy97CzA5qsloKrZnk=
 github.com/infobloxopen/atlas-app-toolkit v0.21.0 h1:ZEeeFWEGiWXeWzsYFNEWQmcTTUABcvQckl12OeZusGs=
 github.com/infobloxopen/atlas-app-toolkit v0.21.0/go.mod h1:DeDerruKrelNyHNhpOsjMzOJb0Qy97CzA5qsloKrZnk=
+github.com/jinzhu/gorm v1.9.2 h1:lCvgEaqe/HVE+tjAR2mt4HbbHAZsQOv3XAZiEZV37iw=
 github.com/jinzhu/gorm v1.9.2/go.mod h1:Vla75njaFJ8clLU1W44h34PjIkijhjHIYnZxMqCdxqo=
 github.com/jinzhu/inflection v1.0.0 h1:K317FqzuhWc8YvSVlFMCCUb36O/S9MCKRDI7QkRKD/E=
 github.com/jinzhu/inflection v1.0.0/go.mod h1:h+uFLlag+Qp1Va5pdKtLDYj+kHp5pxUVkryuEj+Srlc=
