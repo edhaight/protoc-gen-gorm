@@ -9,7 +9,7 @@ require (
 	github.com/jinzhu/gorm v1.9.2
 	github.com/jinzhu/inflection v1.0.0
 	github.com/lib/pq v1.9.0
-	github.com/mattn/go-sqlite3 v2.0.1+incompatible // indirect
+	github.com/mattn/go-sqlite3 v1.14.32 // indirect
 	github.com/satori/go.uuid v1.2.0
 	go.opencensus.io v0.22.6
 	golang.org/x/xerrors v0.0.0-20200804184101-5ec99f83aff1 // indirect
